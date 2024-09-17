@@ -44,6 +44,7 @@ public class DataType {
         byte maxBt= Byte.MAX_VALUE;
         System.out.println(miniBt);
         System.out.println(maxBt);
+        System.out.println(miniBt+" "+maxBt);
 
         char o= 'o';
         char p= 'p';
