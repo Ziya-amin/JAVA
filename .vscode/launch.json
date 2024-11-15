@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "day_08",
+            "request": "launch",
+            "mainClass": "day_08",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "assig_4",
+            "request": "launch",
+            "mainClass": "assig_4",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "assig_1_2_3",
+            "request": "launch",
+            "mainClass": "assig_1_2_3",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Extra.Strings",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_Array",
+            "request": "launch",
+            "mainClass": "DAY_12.TwoD_Array",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchOnSearchSpace",
+            "request": "launch",
+            "mainClass": "DAY_11.BinarySearchOnSearchSpace",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "DAY_01.HelloWorld",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "DAY_02.DataType",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "DAY_04.Pattern",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "DAY_05.Arrays",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "DAY_05.Functions",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "NGEL",
+            "request": "launch",
+            "mainClass": "DAY_08.NGEL",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Day_09.BinarySearch",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Count_Occourance",
+            "request": "launch",
+            "mainClass": "Day_09.Count_Occourance",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "LB_UB",
+            "request": "launch",
+            "mainClass": "Day_09.LB_UB",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Extra.BubbleSort",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Extra.Practice",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "assig",
+            "request": "launch",
+            "mainClass": "Extra.assig",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "day_08",
+            "request": "launch",
+            "mainClass": "Extra.day_08",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA_136c8796"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "JAVA_136c8796"
+        }
+    ]
+}
